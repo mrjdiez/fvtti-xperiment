@@ -1,8 +1,8 @@
 {
-  "id": "worldbuilding",
-  "version": "0.8.2",
-  "title": "Simple World-Building",
-  "url": "https://github.com/foundryvtt/worldbuilding/",
+  "id": "personal-xperiment",
+  "version": "0.1.0",
+  "title": "FVTT Xperiment",
+  "url": "https://github.com/mrjdiez/fvtti-xperiment",
   "description": "A minimalist game system which provides configurable Actor and Item templates to support free-form system agnostic game-play.",
   "license": "LICENSE.txt",
   "authors": [
@@ -36,6 +36,6 @@
   },
   "primaryTokenAttribute": "health",
   "secondaryTokenAttribute": "power",
-  "manifest": "https://raw.githubusercontent.com/foundryvtt/worldbuilding/master/system.json",
-  "download": "https://github.com/foundryvtt/worldbuilding/archive/refs/tags/release-082.zip"
+  "manifest": "",
+  "download": ""
 }
