@@ -36,6 +36,6 @@
   },
   "primaryTokenAttribute": "health",
   "secondaryTokenAttribute": "power",
-  "manifest": "",
+  "manifest": "https://raw.githubusercontent.com/mrjdiez/fvtti-xperiment/refs/heads/master/system.json",
   "download": ""
 }
